@@ -1,0 +1,28 @@
+.nav-bar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+    height: 80px;
+    width: 100%;
+    background-color: rgb(216, 232, 247);
+    color:rgb(14, 21, 241) ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+  
+  }
+  
+  .nav-items{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%; 
+  }
+  
+  .logo{
+    height: 60px;
+  }
+  
+  li{
+    list-style: none;
+  }
